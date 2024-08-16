@@ -1,0 +1,7 @@
+
+° C
+cf160fa0985dcdb243f926f7429ee987
+
+`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=`;
+
+`https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=`;
